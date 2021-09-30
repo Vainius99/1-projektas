@@ -84,6 +84,11 @@
                     Laravel kietai tvarka
                 </div>
 
+                <div class="my-routes-links">
+                    <a href="{{ url('/cool')}}">1pirmas</a>
+                    <a href="{{ url('/pirmasispuslapis')}}">2antras</a>
+                </div>
+
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
